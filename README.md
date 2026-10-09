@@ -1,9 +1,8 @@
 # Sagar's Programming Projects
 
-Learning projects built with HTML, CSS, and JavaScript.
+Applications now have separate repositories:
 
-- [Tic-Tac-Toe](./tic-tac-toe): a two-player game with win and draw detection. Open `tic-tac-toe/index.html` to play.
-- [Weather Explorer](https://github.com/Sagarkhatriii/weatherapp): city search, current conditions, and a five-day forecast.
-- [tori&co](./gaming-store): a yellow-and-black gaming storefront with original illustrations, search, filters, a saved cart, and demo checkout. [Open live demo](https://nexus-gaming-sagar.tunedboar9.chatgpt.site) (owner-private).
-
-I'm developing my programming skills through small projects, studying the code, and making improvements.
+- [Weather Explorer](https://github.com/Sagarkhatriii/weatherapp)
+- [Calculator](https://github.com/Sagarkhatriii/calculator-app)
+- [Tic-Tac-Toe](https://github.com/Sagarkhatriii/tic-tac-toe)
+- [tori&co Gaming Store](https://github.com/Sagarkhatriii/gaming-store)
