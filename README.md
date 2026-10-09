@@ -26,5 +26,3 @@ An **IT service-desk and asset tracker**: create tickets, assign technicians, ma
 - [Weather Explorer](https://github.com/Sagarkhatriii/weatherapp)
 - [Calc Studio](https://github.com/Sagarkhatriii/calculator-app)
 - [Tic-Tac-Toe](https://github.com/Sagarkhatriii/tic-tac-toe)
-
-The `gaming-store/` and `tic-tac-toe/` directories are earlier snapshots. Use the separate repositories above for current versions.
