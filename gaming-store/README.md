@@ -1,6 +1,6 @@
-# NEXUS Gaming
+# tori&co
 
-A responsive gaming storefront portfolio project for Sagar KC, built with HTML, CSS, and vanilla JavaScript with AI assistance. The original black-and-neon-green design is inspired by gaming hardware brands; it is not affiliated with Amazon or Razer.
+A responsive gaming storefront portfolio project for Sagar KC, built with HTML, CSS, and vanilla JavaScript with AI assistance. The original black-and-yellow design is inspired by gaming hardware brands; it is not affiliated with Amazon or Razer.
 
 ## Run locally
 
