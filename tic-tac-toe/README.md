@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-A two-player browser game built with HTML, CSS, and JavaScript, prepared with AI assistance as a learning project.
+A two-player browser game built with HTML, CSS, and JavaScript, prepared.
 
 ## Run
 Open `index.html` in your browser. No installation is required.
