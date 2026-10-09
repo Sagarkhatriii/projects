@@ -22,7 +22,7 @@ An **IT service-desk and asset tracker**: create tickets, assign technicians, ma
 
 ## Working applications
 
-- [tori&co Gaming Store](https://github.com/Sagarkhatriii/gaming-store) · [Public demo](https://nexus-gaming-sagar.tunedboar9.chatgpt.site)
+- [tori&co Gaming Store](https://github.com/Sagarkhatriii/gaming-store) · [Public demo](https://sagarkhatriii.github.io/gaming-store/)
 - [Weather Explorer](https://github.com/Sagarkhatriii/weatherapp)
 - [Calc Studio](https://github.com/Sagarkhatriii/calculator-app)
 - [Tic-Tac-Toe](https://github.com/Sagarkhatriii/tic-tac-toe)
